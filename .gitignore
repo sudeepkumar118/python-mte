@@ -4,3 +4,8 @@
 /node_modules
 /Lib
 
+
+
+#Files
+mysite/mysite/settings.py
+
