@@ -4,8 +4,3 @@
 /node_modules
 /Lib
 
-# testing
-/coverage
-
-# production
-/build
